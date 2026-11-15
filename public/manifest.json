@@ -1,0 +1,100 @@
+{
+"name": "Agence Shiny",
+"short_name": "Shiny",
+"start_url": "/",
+"scope": "/",
+"display": "fullscreen",
+"iarc_rating_id": "e58c174a-81d2-5c3c-32cc-34b8de4a52e9",
+"display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui",
+    "window-controls-overlay"
+],
+"description": "Agence Shiny | Repérez vos besoins, on s'occupe du reste, avec les meilleurs talents",
+"lang": "fr",
+"dir": "auto",
+"theme_color": "#2F2E41",
+"background_color": "#2F2E41",
+"orientation": "any",
+"categories": [
+    "business",
+    "lifestyle",
+    "social"
+],
+"icons": [
+    {
+        "src": "shiny-logo.svg",
+        "sizes": "260x97",
+        "type": "image/png",
+        "purpose": "maskable"
+    },
+    {
+        "src": "shiny-logo.png",
+        "sizes": "260x97",
+        "type": "image/png",
+        "purpose": "any"
+    },
+    {
+        "src": "shiny-logo@512px.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }
+],
+"screenshots": [{
+    "src":"/shiny-1.png",
+    "sizes": "2880x2048",
+    "type": "image/png",
+    "form_factor": "wide"
+},{
+    "src":"/shiny-2.png",
+    "sizes": "2880x2048",
+    "type": "image/png",
+    "form_factor": "wide"
+},{
+    "src":"/shiny-3.png",
+    "sizes": "2880x2056",
+    "type": "image/png",
+    "form_factor": "wide"
+},{
+    "src":"/shiny-4.png",
+    "sizes": "2880x2048",
+    "type": "image/png",
+    "form_factor": "wide"
+},{
+    "src":"/shiny-7.png",
+    "sizes": "957x445",
+    "type": "image/png",
+    "form_factor": "wide"
+},
+{
+    "src":"/shiny-1-m.png",
+    "sizes": "1080x1920",
+    "type": "image/png"
+},
+{
+    "src":"/shiny-2-m.png",
+    "sizes": "1080x1920",
+    "type": "image/png"
+},
+{
+    "src":"/shiny-4-m.png",
+    "sizes": "1080x1920",
+    "type": "image/png"
+},
+{
+    "src":"/shiny-5-m.png",
+    "sizes": "1080x1920",
+    "type": "image/png"
+}
+],
+"prefer_related_applications": false,
+"shortcuts": [
+    {
+        "name": "Nos freelances",
+        "url": "/freelances",
+        "description": "Trouvez votre prestataire"
+    }
+]
+}
